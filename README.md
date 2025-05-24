@@ -3,7 +3,9 @@
 This is a full-stack CRUD application to manage a developer's project portfolio. It features a modern frontend built with **React**, **TypeScript**, **Tailwind CSS**, and **ShadCN UI**, and a simple **Node.js/Express.js** backend connected to **MongoDB**.
 
 ---
-## live link: 
+: ## 🔗 Live Demo
+
+👉 [View Live Application](https://crud-application-server-mfdl.vercel.app/)
 ## 🚀 Features
 
 - 🔍 View all projects in a responsive table
